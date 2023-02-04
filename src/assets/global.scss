@@ -1,0 +1,8 @@
+$theme-color:#545c64;
+$body-color:#eee8e9f5;
+$header-height:50px;
+@mixin center {
+	display: inline-flex;
+	justify-content: center;
+	align-items: center;
+}
